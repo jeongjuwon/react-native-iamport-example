@@ -42,10 +42,10 @@ export default class testapp extends Component {
             merchant_uid : '`+ 'merchant_' + new Date().getTime() +`',
             name : '주문명:결제테스트',
             amount : 1000,
-            buyer_email : '2jw0718@gmail.com',
+            buyer_email : 'aaa@aaa.com',
             buyer_name : '정주원',
-            buyer_tel : '010-8636-8010',
-            buyer_addr : '경기도 파주시 가람마을 4단지 406동',
+            buyer_tel : '010-0000-0000',
+            buyer_addr : '경기도 파주시',
             buyer_postcode : '123-456',
             m_redirect_url : 'http://planche.io/iamport.html',
             app_scheme : 'thegajago'
